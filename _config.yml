@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Open Adaptive Music Library
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: http://localhost:4000
+#description: Describe your website here.
+#logo: site-logo.png
+search: false
+#url: http://localhost:4000
+url: https://oamldev.github.io
 
 # Jekyll configuration
 
@@ -48,13 +49,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Open Adaptive Music Library
+  avatar: #bio-photo.jpg
+  email: #you@email.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: oamldev
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
