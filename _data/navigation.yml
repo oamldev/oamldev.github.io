@@ -6,8 +6,11 @@
 - title: About
   url: /about/
 
-#- title: Downloads
-#  url: /downloads/
+- title: Demos
+  url: /demos/
+
+- title: Downloads
+  url: /downloads/
 
 - title: Github
   url: https://github.com/oamldev/oaml
