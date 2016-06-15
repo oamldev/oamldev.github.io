@@ -29,7 +29,15 @@ Note that a track is only required to have one main loop at least, all the other
 
 ### Supported audio formats
 
-Supports the following audio formats: **ogg, wav, aif**.
+Supports the following audio formats:
+- ogg
+- wav
+- aif
+
+
+### Supported game engines
+- Unity3d
+- Godot: [oamlGodotModule](https://github.com/oamldev/oamlGodotModule)
 
 
 ### How to compile
@@ -93,18 +101,10 @@ For now since resampling is not implemented in OAML you need to export the music
 - Got any question? Write me an email to <marcelo@marcelofernandezmusic.com>.
 
 
-### TODO
-
-- Make the possibility that tension will not simply change to a condition loop but instead that both loops (main loop and conditional loop) will play together based on the tension percent, need to test it first.
-- Resampling music?
-- Add a function for playing SFX's with a 3d position.
-- Add a loudness effect, and a reverb effect as well.
-- Implement OAML in more game engines, love2d, godot, etc.
-
-
 ### Games using OAML
 
 - [https://github.com/Andrettin/Wyrmgus](https://github.com/Andrettin/Wyrmgus)
+
 
 ### About
 
