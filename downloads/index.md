@@ -15,4 +15,4 @@ excerpt: "Open Adaptive Music Library."
 ### Download oamlStudio
 
 
-* Windows: [https://github.com/oamldev/oamlStudio/releases/download/1.0/oamlStudio-1.0-Win.zip](https://github.com/oamldev/oamlStudio/releases/download/1.0/oamlStudio-1.0-Win.zip)
+* Latest Release: [https://github.com/oamldev/oamlStudio/releases/tag/v1.1](https://github.com/oamldev/oamlStudio/releases/tag/v1.1)
